@@ -1,153 +1,126 @@
-Absolutely YES! 💜
-Here is a **perfect, professional, clean README.md** for your Metro House Rent Prediction app — fully ready to upload to GitHub and HuggingFace.
+Here is your **professional, clean, human-written README.md** (with **no AI words**, no ML terms**) — perfect for developers, recruiters, and public users.
+Your links are also added properly.
+This reads like a real industry project.
 
 ---
 
-# 🚀 **README.md — Metro House Rent Predictor**
+# **🏙️ Metro House Rent Predictor**
 
-```markdown
-# 🏙️ Metro House Rent Predictor  
-A fully interactive **ML-powered rent prediction web app** built using **Gradio**, **Python**, and **Pandas**.  
-Users can select a **city → area updates automatically**, enter home details, and receive an estimated monthly rent instantly.
+A simple and interactive web application that helps users estimate house rent across major metro cities in India.
+The app provides real-time rent predictions based on selected city, area, and home features, along with a clean and intuitive interface.
 
-Live Demo (HuggingFace ❇️):  
-👉 *[Add your HuggingFace Space link here]*
+🔗 **Live App:** [https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor](https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor)
+🔗 **GitHub Repository:** [[https://github.com/Shruthi-S-098](https://github.com/Shruthi-S-098/house-rent-prediction)](https://github.com/Shruthi-S-098)
 
 ---
 
-## ✨ Features
+## **✨ Overview**
 
-### 🔹 Dynamic City → Area Selection  
-- When a user chooses a city, the app automatically loads all available areas belonging to that city.  
-- Prevents wrong typing and ensures accurate predictions.
+Metro House Rent Predictor allows users to:
 
-### 🔹 Smooth & Clean UI  
-- Built using **Gradio Blocks** with a soft theme.  
-- Icons and formatted text for professional user experience.
+* Select a **city**, and automatically view all **areas** under that city.
+* Enter home details such as rooms, bathrooms, parking, floor type, etc.
+* Instantly get an estimated rent based on the selected features.
+* Experience a friendly, interactive UI built for smooth usage.
 
-### 🔹 Smart Rent Calculation  
-The app considers:  
-- Rooms  
-- Bathrooms  
-- Parking  
-- Floor  
-- Animal Allowance  
-- Furniture Type  
-- Base Rent  
-
-The final rent is auto-calculated using a simple formula based on user inputs.
-
-### 🔹 Lightweight & Fast  
-- No heavy ML models  
-- Quick predictions  
-- Works directly on HuggingFace Spaces
+The goal is to make rent estimation simple, accessible, and user-friendly.
 
 ---
 
-## 🧠 How the Prediction Works
-A simple scoring mechanism is used:
+## **🌟 Features**
+
+### ✔️ Dynamic City–Area Linking
+
+Once a city is selected, the area dropdown updates automatically to show only the available areas under that city.
+No need for typing or guessing.
+
+### ✔️ Clean & Modern Interface
+
+Designed with a soft theme and intuitive layout for a seamless user experience.
+
+### ✔️ Quick Rent Estimation
+
+The app uses a simple calculation method based on the user’s selected house features.
+
+### ✔️ Lightweight & Fast
+
+Runs instantly without heavy processing or long loading times.
+
+### ✔️ Works Anywhere
+
+Easily accessible online through HuggingFace Spaces.
+
+---
+
+## **🧩 How Rent Is Estimated**
+
+A clean, easy-to-understand formula is used:
 
 ```
-
-total_rent = (rooms*1200) + (bath*800) + (park*500) + base_rent
-
+Total Rent = Base Rent + (Rooms × 1200) + (Bathrooms × 800) + (Parking × 500)
 ```
 
-This keeps the system fast and easy to understand.
+This keeps predictions straightforward and consistent.
 
 ---
 
-## 📊 Dataset  
-The app uses:  
-**Metro_House_Rent.csv**
-
-Columns include:
-- City  
-- Area  
-- Floor  
-- Rooms  
-- Bathrooms  
-- Parking  
-- Furniture  
-- Animal Allowance  
-- Base Rent  
-
-Place the dataset in the same directory as `app.py`.
-
----
-
-## 🛠️ Tech Stack  
-| Component | Technology |
-|----------|------------|
-| UI       | Gradio Blocks |
-| Backend  | Python |
-| Data     | Pandas |
-| Hosting  | HuggingFace Spaces |
-
----
-
-## 📁 Project Structure
+## **📁 Project Files**
 
 ```
-
-📦 metro-rent-app
-┣ 📜 app.py
-┣ 📜 requirements.txt
-┣ 📜 Metro_House_Rent.csv
-┗ 📜 README.md
-
-````
+📦 metro-rent-predictor
+ ┣ 📜 app.py
+ ┣ 📜 requirements.txt
+ ┣ 📜 Metro_House_Rent.csv
+ ┗ 📜 README.md
+```
 
 ---
 
-## ▶️ Running Locally
+## **▶️ Running the Project Locally**
 
-### 1. Clone the repo
+### **1. Clone the Repository**
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/metro-rent-app.git
-cd metro-rent-app
-````
+git clone https://github.com/Shruthi-S-098/metro-rent-predictor.git
+cd metro-rent-predictor
+```
 
-### 2. Install dependencies
+### **2. Install Required Packages**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the app
+### **3. Start the App**
 
 ```bash
 python app.py
 ```
 
+The application will open in your browser.
+
 ---
 
-## 🌐 Deploy on HuggingFace
+## **🌐 Deploying on HuggingFace**
 
-1. Create a new Space
-2. Select **Gradio**
-3. Upload:
+1. Create a new Space.
+2. Select the **Gradio** template.
+3. Upload these files:
 
    * `app.py`
    * `requirements.txt`
    * `Metro_House_Rent.csv`
-
-HuggingFace will auto-build and deploy.
+4. HuggingFace will automatically build and host the app.
 
 ---
 
-## 📬 Contact
+## **👤 Developer**
 
-If you have any suggestions or want to collaborate:
-
-**Author:** Shruthi S
-
-**Tech Stack:** Python • Gradio • Pandas
-
-**GitHub:** *https://github.com/Shruthi-S-098*
+**Name:** Shruthi S
+🔗 GitHub: [https://github.com/Shruthi-S-098](https://github.com/Shruthi-S-098)
+🔗 Live App: [https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor](https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor)
 
 ---
 
 
-Just tell me **“add badges”** or **“add screenshots section”**!
-```
+Just tell me — *“add screenshots”* or *“add badges”*.
