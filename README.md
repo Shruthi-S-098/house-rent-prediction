@@ -114,6 +114,7 @@ The application will open in your browser.
 ## **👤 Developer**
 
 **Name:** Shruthi S
+
 🔗 GitHub: [https://github.com/Shruthi-S-098](https://github.com/Shruthi-S-098)
 
 🔗 Live App: [https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor](https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor)
