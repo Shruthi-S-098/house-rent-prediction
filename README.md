@@ -141,8 +141,10 @@ HuggingFace will auto-build and deploy.
 If you have any suggestions or want to collaborate:
 
 **Author:** Shruthi S
+
 **Tech Stack:** Python • Gradio • Pandas
-**GitHub:** *()*
+
+**GitHub:** *https://github.com/Shruthi-S-098*
 
 ---
 
