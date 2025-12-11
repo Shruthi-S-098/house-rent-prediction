@@ -6,6 +6,7 @@ A simple and interactive web application that helps users estimate house rent ac
 The app provides real-time rent predictions based on selected city, area, and home features, along with a clean and intuitive interface.
 
 🔗 **Live App:** [https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor](https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor)
+
 🔗 **GitHub Repository:** [[https://github.com/Shruthi-S-098](https://github.com/Shruthi-S-098/house-rent-prediction)](https://github.com/Shruthi-S-098)
 
 ---
@@ -114,9 +115,9 @@ The application will open in your browser.
 
 **Name:** Shruthi S
 🔗 GitHub: [https://github.com/Shruthi-S-098](https://github.com/Shruthi-S-098)
+
 🔗 Live App: [https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor](https://huggingface.co/spaces/Shruthi-S-098/metro-rent-predictor)
 
 ---
 
 
-Just tell me — *“add screenshots”* or *“add badges”*.
