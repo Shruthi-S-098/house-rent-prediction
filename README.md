@@ -1,8 +1,4 @@
-Here is your **professional, clean, human-written README.md** (with **no AI words**, no ML terms**) — perfect for developers, recruiters, and public users.
-Your links are also added properly.
-This reads like a real industry project.
 
----
 
 # **🏙️ Metro House Rent Predictor**
 
